@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PersistProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>Корабселки</ProjectName>
+  <TypeName>MasterSCADA.Project.HMI</TypeName>
+  <ProjectConfiguration>MasterPLC</ProjectConfiguration>
+  <StoreTypeName>FirebirdStore</StoreTypeName>
+  <ProjectChange>2019-09-25T17:32:42.9913677+03:00</ProjectChange>
+  <ProjectVersion>1921</ProjectVersion>
+</PersistProjectInfo>
